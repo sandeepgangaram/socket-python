@@ -1,4 +1,4 @@
-# Socket Program in Python
+# Socket Programming in Python
 
 ## Features
 
@@ -16,13 +16,13 @@
 ## Usage
 
 - Clone the repo
-- Run server.py
+- Run `server.py`
 - Visit localhost:8080/index.html
 - Access from multiple servers
 
 ### Client
 
-- Run client.py <server_name> <port_number> index.html from command line
+- Run `client.py localhost 8080 index.html` through CLI
 
 Change the server and port number if you want.
 

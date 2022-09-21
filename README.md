@@ -15,6 +15,8 @@
 
 ## Usage
 
+### Server
+
 - Clone the repo
 - Run `server.py`
 - Visit localhost:8080/index.html

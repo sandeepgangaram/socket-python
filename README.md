@@ -1,4 +1,4 @@
-# Socket Programming in Python
+# Socket Programming for TCP in Python
 
 ## Features
 
